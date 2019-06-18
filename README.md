@@ -9,7 +9,7 @@ Se puder me ajudar a melhorar minhas soluções, ou encontrar algum problema na 
 1. Instale a linguagem de programação [Racket](https://download.racket-lang.org/)
 2. Depois clone esse repositório.
    ```
-   git clone --
+   git clone https://github.com/Camilotk/Euler.git
    ```
 3. Acesse a pasta no terminal.
 4. Execute o script pelo terminal.
